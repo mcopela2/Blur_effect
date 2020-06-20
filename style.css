@@ -89,7 +89,7 @@ body {
 }
 
 .pimg3 {
-  background-image: url("../img/about-background.jpg");
+  background-image: url("about-background.jpg");
   min-height: 400px;
 }
 
@@ -102,7 +102,7 @@ body {
 }
 
 .pimg4 {
-  background-image: url("../img/about-background2.jpg");
+  background-image: url("about-background2.jpg");
   min-height: 400px;
 }
 
