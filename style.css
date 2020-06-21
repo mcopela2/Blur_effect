@@ -18,6 +18,13 @@ body {
   -webkit-filter: blur(10px);
   transition: all 1000ms;
 }
+.parallax {
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 500px;
+}
 
 .showcase:hover::after {
   filter: blur(0px);
